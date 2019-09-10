@@ -10,5 +10,5 @@ Instuctions:
 
 ## Examples
 ![](https://github.com/GeekCSA/Age-and-Gender-Converter/blob/master/Examples/collage_Paul_Walker.jpg) <br />
-![](https://github.com/GeekCSA/Age-and-Gender-Converter/blob/master/Examples/collage_Woman_40.jpg)
+![](https://github.com/GeekCSA/Age-and-Gender-Converter/blob/master/Examples/collage_Woman_40.jpg)  <br />
 ![](https://github.com/GeekCSA/Age-and-Gender-Converter/blob/master/Examples/collage_Man_40.jpg)
